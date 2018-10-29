@@ -1,0 +1,3 @@
+DeckCount has not changed, TEST 1 PASSED
+Deck with zero cards will not shuffle, TEST 2 PASSED
+Cards are different, TEST 3 PASSED
